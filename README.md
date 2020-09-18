@@ -1,15 +1,13 @@
-# webpack Starter
+# Todo List applicattion 'TODO'
 
-Este es el proyecto inicial para
-crear aplicaciones utilizando webpack.
+Este es un proyecto donde se construyo la siguiente aplicacion
 
-### Notas:
-Recuerden reconstruir los modulos de Node
 ```
-npm install
+TODO   utilizando JS.
 ```
 
-Y para construir el build, recuerden:
-```
-npm run build
-```
+### version:
+produccion
+
+fecha: 9/18/2020
+practica: Curso JS con Fernando 
